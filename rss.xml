@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Email MarketingPRO]]></title>
         <description><![CDATA[Email MarketingPRO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mailimprove/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 22:58:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 23:01:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mailimprove/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[Recursos]]></title>
             <description><![CDATA[<p>Recursos</p>]]></description>
-            <link>undefinedrecursos/index.html</link>
+            <link>https://thegrid.ai/mailimprove/recursos/index.html</link>
             <guid isPermaLink="false">852b3d96-6539-44fa-8647-e1860ea013c7</guid>
-            <pubDate>Thu, 04 Aug 2016 22:58:12 GMT</pubDate>
+            <pubDate>Thu, 04 Aug 2016 23:01:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
