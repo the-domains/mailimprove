@@ -4,21 +4,21 @@
         <description><![CDATA[Email MarketingPRO]]></description>
         <link>https://thegrid.ai/mailimprove/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 14:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 17:51:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mailimprove/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Preços]]></title>
+            <description><![CDATA[<p>Preços</p>]]></description>
+            <link>https://thegrid.ai/mailimprove/precos/index.html</link>
+            <guid isPermaLink="false">0f992296-4f1f-466d-818c-49348eb4df30</guid>
+            <pubDate>Mon, 08 Aug 2016 17:51:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Recursos]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/756f6f32-30a7-499d-bff3-ddf36b3507a3.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/mailimprove/recursos/index.html</link>
             <guid isPermaLink="false">852b3d96-6539-44fa-8647-e1860ea013c7</guid>
             <pubDate>Fri, 05 Aug 2016 22:30:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Preços]]></title>
-            <description><![CDATA[<p>Preços</p>]]></description>
-            <link>https://thegrid.ai/mailimprove/precos/index.html</link>
-            <guid isPermaLink="false">0f992296-4f1f-466d-818c-49348eb4df30</guid>
-            <pubDate>Mon, 08 Aug 2016 14:03:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
